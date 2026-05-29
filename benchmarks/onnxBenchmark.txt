@@ -1,0 +1,9 @@
+.pt file inference time:  18.017189908004184
+.onx file inference time:  25.851376536006683
+
+
+PyTorch: 26.19 ms/frame | 38.19 FPS
+ONNX: 37.57 ms/frame | 26.61 FPS
+
+
+(Tested on CPU)
